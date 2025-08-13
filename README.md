@@ -34,4 +34,4 @@
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/Sankethhombale/Left-Over-Food-Management.git
+git clone https://github.com/Chetankumar-17/Left-Over-Food-Management-System
